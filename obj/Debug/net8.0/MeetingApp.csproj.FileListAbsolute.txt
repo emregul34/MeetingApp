@@ -227,3 +227,4 @@ C:\Users\oemre\source\repos\MeetingApp\MeetingApp\obj\Debug\net8.0\MeetingApp.Ra
 C:\Users\oemre\source\repos\MeetingApp\MeetingApp\bin\Debug\net8.0\libman.json
 C:\Users\oemre\source\repos\MeetingApp\MeetingApp\bin\Debug\net8.0\MeetingApp.staticwebassets.runtime.json
 C:\Users\oemre\source\repos\MeetingApp\MeetingApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\oemre\source\repos\MeetingApp\MeetingApp\obj\Debug\net8.0\MeetingApp.sourcelink.json
